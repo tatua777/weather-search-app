@@ -1,0 +1,13 @@
+{
+    "name": "weather-search-app",
+    "private": true,
+    "workspaces": [
+        "backend",
+        "frontend"
+    ],
+    "scripts": {
+        "start:backend": "cd backend && npm start",
+        "start:frontend": "cd frontend && npm start",
+        "install": "npm install"
+    }
+}

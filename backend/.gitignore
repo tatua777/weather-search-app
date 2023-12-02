@@ -1,0 +1,6 @@
+# Ignore Node.js modules
+node_modules/
+
+# Optionally, ignore the build artifacts (e.g., build/ or dist/)
+build/
+dist/
